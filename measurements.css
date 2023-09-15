@@ -1,2 +1,11 @@
 
 .textBig {font-size: 3rem;}
+
+.flex-container {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 2rem;
+    
+  }
